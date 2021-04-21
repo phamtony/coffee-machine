@@ -1,3 +1,4 @@
-# coffee_machine
+# Coffee Machine
 
-run up the coffee vending machine. Has limited resources, so come get it quick. And have some money.
+Run a coffee vending machine (in python console). 
+It comes with limited resources, so come get it quick.
